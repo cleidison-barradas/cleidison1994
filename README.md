@@ -1,6 +1,6 @@
 ### Olá Sou Cleidison Barradas 👋
 
-- 🔭 Hoje trabalho como FullStack developer 
+- 🔭 Trabalho como FullStack developer 
 - 🌱 Estudando React, Nodejs
 <div>
   <a href="https://github.com/cleidison1994">
